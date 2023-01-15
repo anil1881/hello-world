@@ -12,6 +12,10 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
+     <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <br>
+
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
@@ -32,6 +36,6 @@
   </div>
 
    <h1> wellcome,to New year </h1>
-
+   <h1> girls makes ur leags week </h1>
   
 </form>
