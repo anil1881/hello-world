@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> wellcome,to New year </h1>
+   <h1> time=money </h1>
    <h1> girls makes ur leags week </h1>
   
 </form>
